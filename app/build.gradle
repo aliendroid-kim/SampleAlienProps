@@ -38,4 +38,5 @@ dependencies {
     androidTestImplementation 'androidx.test.espresso:espresso-core:3.5.1'
     implementation 'com.github.ronaldwm2:alienads_propssdk:1.0.0'
     implementation 'com.google.android.gms:play-services-ads:22.6.0'
+    implementation 'androidx.lifecycle:lifecycle-process:2.7.0'
 }
